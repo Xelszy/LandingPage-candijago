@@ -1,0 +1,6 @@
+{
+  "name": "Reverie",
+  "description": "A high-fidelity interactive landing page with a smooth, hardware-accelerated scroll-linked animation system, 3D parallax effects, and micro-animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

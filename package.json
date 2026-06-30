@@ -1,0 +1,33 @@
+{
+  "name": "ai-studio-applet",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.6.1",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.21.0",
+    "next": "^15.4.9",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "three": "^0.164.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.1.11",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/three": "^0.164.0",
+    "eslint": "9.39.1",
+    "eslint-config-next": "16.0.8",
+    "postcss": "^8.5.6",
+    "tailwindcss": "4.1.11",
+    "typescript": "5.9.3"
+  }
+}
